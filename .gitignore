@@ -1,0 +1,89 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+
+.env
+.env.*
+*.env
+
+# Python packaging
+
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Logs
+
+*.log
+logs/
+
+# Database
+
+*.db
+*.sqlite3
+
+# Cache
+
+.cache/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Testing
+
+.tox/
+.nox/
+
+# IDE / Editor
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Jupyter
+
+.ipynb_checkpoints
+
+# Coverage
+
+coverage.xml
+
+# Static / Media (if using)
+
+staticfiles/
+media/
+
+# Docker
+
+*.pid
+*.seed
+
+# Node (if frontend later added)
+
+node_modules/
+
+# Misc
+
+*.swp
+*.swo
